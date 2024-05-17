@@ -13,7 +13,7 @@ if [[ $# -eq 0 ]]; then
 fi
 
 nnodes=2
-host_name="betty5"
+host_name="notlocalhost"
 
 while getopts h:n: flag 
 do
