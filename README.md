@@ -12,7 +12,7 @@ The Images are inside the images.zip file. Metadata is located inside the meta.t
 
 ## Sharing/Access information
 
-Images located at [https://doi.org/10.6084/m9.figshare.26269492](10.6084/m9.figshare.26269492) are prohibited to share. Password can be provided for research purposes.
+Images located at [10.6084/m9.figshare.26269492](https://doi.org/10.6084/m9.figshare.26269492) are prohibited to share. Password can be provided for research purposes.
 
 Data was derived from the following sources:
 
@@ -68,7 +68,7 @@ Please refer to the `readme.txt` files within the zip archives for detailed inst
 *   **meta.pkl**: Pickled pandas object containing the meta data.
 *   **meta.tsv**: Tab-separated meta data file containing all meta data.
 *   **edge_lengths.csv**: Comma-separated file that contains the distances published by Blier et al.
-*   **images.zip**: Available at [https://doi.org/10.6084/m9.figshare.26269492](10.6084/m9.figshare.26269492) contains all images in JPEG format.
+*   **images.zip**: Available at [10.6084/m9.figshare.26269492](https://doi.org/10.6084/m9.figshare.26269492) contains all images in JPEG format.
 *   **code_task_1.zip**:
     *   Multi-level taxonomic identification task.
     *   Includes code for training and evaluating sequential and parallel multi-head networks, with and without genetic distances target.
